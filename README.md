@@ -11,6 +11,7 @@ Made a Movies table in the database, this could help in transaction management a
 
 ## Dashboard
 View on (TABLEAU PUBLIC): [https://public.tableau.com/views/MovieProfitDashboard_17940966755910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+The dashboard presents 5 financial aspects at once : Profit by genre, Profit trend by year, KPI-AVG ROI, KPI-Total profit, Top 10 movies by Profit. 
 
 ## Business Question
 Which movies and genres are actually profitable, not just high-grossing?
